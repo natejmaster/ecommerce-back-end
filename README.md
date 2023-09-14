@@ -13,6 +13,7 @@ In the study of back end development, it is crucial for aspiring developers to h
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Links](#links)
 
 ## Installation
 To install this project, first sign into MYSQL and run the schema.sql file to create the database, then type 'npm run seed' to fully seed the database. From there, enter 'node server.js' on the root menu's command line to run the server. From there, you can open insomnia and run any database modifications from there.
